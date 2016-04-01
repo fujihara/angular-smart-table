@@ -1,7 +1,7 @@
 var packageName = 'fujihara:angular-smart-table';
 var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
-var version = '0.0.1';
-var summary = 'Meteor package to use npm/bower angular-smart-table';
+var version = '2.1.8';
+var summary = 'Meteor wrapper to npm/bower Smart-Table.';
 var gitLink = 'https://github.com/fujihara/angular-smart-table';
 var documentationFile = 'README.md';
 

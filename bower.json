@@ -1,12 +1,12 @@
 {
   "name": "angular-smart-table",
-  "version": "0.0.1",
+  "version": "2.1.8",
   "main": "angular-smart-table.js",
   "homepage": "https://github.com/fujihara/angular-smart-table",
   "authors": [
     "Mauro Fujihara <fujihara@oruam.net>"
   ],
-  "description": "Meteor package to use npm/bower angular-smart-table",
+  "description": "Meteor wrapper to npm/bower Smart-Table.",
   "moduleType": [],
   "license": "MIT",
   "ignore": [
@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular-smart-table": "^2.1.8"
+    "angular-smart-table": "2.1.8"
   }
 }

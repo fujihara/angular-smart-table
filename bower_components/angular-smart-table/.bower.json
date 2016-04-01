@@ -5,7 +5,7 @@
   "authors": [
     "lorenzofox3 <laurent34azerty@gmail.com>"
   ],
-  "description": "table module for angular",
+  "description": "Meteor wrapper to npm/bower Smart-Table.",
   "main": "dist/smart-table.js",
   "keywords": [
     "smart-table",
